@@ -1,0 +1,2 @@
+tup=(2,1,3,4,6,5)
+print(type(tup))
